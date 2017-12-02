@@ -4,3 +4,6 @@ target
 .project
 .settings/
 
+.idea/
+adventofcode2017.iml
+
