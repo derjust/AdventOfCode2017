@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "These are just my puzzle solutions for the [Advent of Code 2017](http://adventofcode.com/2017).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derjust/AdventOfCode2017.git"
+  },
+  "author": "derjust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derjust/AdventOfCode2017/issues"
+  },
+  "homepage": "https://github.com/derjust/AdventOfCode2017#readme"
+}
